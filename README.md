@@ -1,2 +1,2 @@
-# ooplab
+# oopslab
 Object Oriented Programming 
