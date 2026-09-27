@@ -1,2 +1,0 @@
-# oopslab
-Object Oriented Programming 
